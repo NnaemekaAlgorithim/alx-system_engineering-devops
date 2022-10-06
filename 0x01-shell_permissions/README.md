@@ -28,3 +28,6 @@ This script gives permission all permissions only to others while owner and grou
 
 ## 9-John_Doe
 This script gives all permissions to the owner and only read and execute to the group while it gives only write and execute to others.
+
+## 10-mirror_permissions
+This script would always set the file mode of the hello file to that of the olleh file.
