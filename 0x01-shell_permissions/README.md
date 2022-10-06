@@ -10,3 +10,6 @@ This script prints all the groups the current user is part of.
 
 ## 3-new_owner
 The script here changes the owner of the hello file from root to betty, using the chown command.
+
+## 4-empty
+Here is a script that creates an empty file named hello, and i used the touch command.
