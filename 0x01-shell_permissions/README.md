@@ -13,3 +13,6 @@ The script here changes the owner of the hello file from root to betty, using th
 
 ## 4-empty
 Here is a script that creates an empty file named hello, and i used the touch command.
+
+## 5-execute
+This script would give the execute right to the hello file using chmod command.
