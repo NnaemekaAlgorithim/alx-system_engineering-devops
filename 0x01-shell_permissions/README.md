@@ -4,3 +4,6 @@ This script simply switches the current user to the user betty using the su comm
 
 ## 1-who_am_i
 This is a script used to print the effective username of the current user using the id command
+
+## 2-groups
+This script prints all the groups the current user is part of.
