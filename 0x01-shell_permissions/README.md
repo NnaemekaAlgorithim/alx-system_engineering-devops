@@ -25,3 +25,6 @@ This script adds execute permission to everyone, since we are not allowed to use
 
 ## 8-James_Bond
 This script gives permission all permissions only to others while owner and group is denied all permission and it forms the code in the movie james bond 007 hence the name of the script
+
+## 9-John_Doe
+This script gives all permissions to the owner and only read and execute to the group while it gives only write and execute to others.
