@@ -34,3 +34,6 @@ This script would always set the file mode of the hello file to that of the olle
 
 ## 11-directories_permissions
 this script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. But will not change that of regular files.
+
+## 12-directories_permissions
+This script creates a directory my_dir and automaticaly assigns 751 permission mode
