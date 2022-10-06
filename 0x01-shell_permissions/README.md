@@ -37,3 +37,6 @@ this script adds execute permission to all subdirectories of the current directo
 
 ## 12-directories_permissions
 This script creates a directory my_dir and automaticaly assigns 751 permission mode
+
+## 13-change_group
+This script change only the group owner to school.
