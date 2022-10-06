@@ -22,3 +22,6 @@ This script would give the execute right to the hello file using chmod command.
 
 ## 7-everybody
 This script adds execute permission to everyone, since we are not allowed to use "," i had to use the absolute mode while making sure to keep other permissions as they are for the hello file while adding the execute files only to them all.
+
+## 8-James_Bond
+This script gives permission all permissions only to others while owner and group is denied all permission and it forms the code in the movie james bond 007 hence the name of the script
