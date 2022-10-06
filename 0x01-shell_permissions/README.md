@@ -16,3 +16,6 @@ Here is a script that creates an empty file named hello, and i used the touch co
 
 ## 5-execute
 This script would give the execute right to the hello file using chmod command.
+
+## 6-multiple_permissions
+ This script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
