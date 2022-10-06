@@ -7,3 +7,6 @@ This is a script used to print the effective username of the current user using 
 
 ## 2-groups
 This script prints all the groups the current user is part of.
+
+## 3-new_owner
+The script here changes the owner of the hello file from root to betty, using the chown command.
