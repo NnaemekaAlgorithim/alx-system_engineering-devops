@@ -19,3 +19,6 @@ This script would give the execute right to the hello file using chmod command.
 
 ## 6-multiple_permissions
  This is the script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. The permissions where specified using symbolic mode.
+
+## 7-everybody
+This script adds execute permission to everyone, since we are not allowed to use "," i had to use the absolute mode while making sure to keep other permissions as they are for the hello file while adding the execute files only to them all.
