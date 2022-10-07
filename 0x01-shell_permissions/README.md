@@ -43,3 +43,12 @@ This script change only the group owner to school.
 
 ## 100-change_owner_and_group
 This script changes the owner and group owner of all files and folders in the folder path specified.
+
+## 101-symbolic_link_permissions
+This is a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+## 102-if_only
+This is a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+## 103-Star_Wars
+This is a script that will play the StarWars IV episode in the terminal.
