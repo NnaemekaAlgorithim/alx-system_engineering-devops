@@ -40,3 +40,6 @@ This script creates a directory my_dir and automaticaly assigns 751 permission m
 
 ## 13-change_group
 This script change only the group owner to school.
+
+## 100-change_owner_and_group
+This script changes the owner and group owner of all files and folders in the folder path specified.
