@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home/ -type f -size oc -exec ls {} \;
+find . -empty -printf "%f\n"
