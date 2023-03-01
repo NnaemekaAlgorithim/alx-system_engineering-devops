@@ -10,7 +10,7 @@ argument passed to it via the command line._
 
 * **0. Simply matching school**
   * [0-simply_match_school.rb](./0-simply_match_school.rb): Ruby script that
-  matches the regular expression `Holberton`.
+  matches the regular expression `School`.
 
 * **1. Repetition Token #0**
   * [1-repetition_token_0.rb](./1-repetition_token_0.rb): Ruby script that matches
