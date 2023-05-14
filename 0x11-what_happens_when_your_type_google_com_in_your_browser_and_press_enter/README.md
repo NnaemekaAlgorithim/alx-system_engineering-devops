@@ -14,4 +14,8 @@ website] into a browser and hit `Enter`?
   * [1-what_happen_when_diagram](./1-what_happen_when_diagram): Text file
   containing the link to a diagram put togeter to visualize the networking
   process described in my blog.
- 
+
+* **2. Contribute!**
+  * [2-contribution-to_what-happens-when_github_answer](./2-contribution-to_what-happens-when_github_answer)
+  containing the link to the contribution I made to try and answer the age old question of what happens when i type google.com in my browser and hit enter.
+  
